@@ -1,6 +1,6 @@
 {
     "name": "thiago-oliveira",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Metedo post e get para consultas de apis",
     "main": "src/recebe.ts",
     "type": "module",
