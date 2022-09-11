@@ -1,8 +1,8 @@
 {
     "name": "thiago-oliveira",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Metedo post e get para consultas de apis",
-    "main": "src/recebe.js",
+    "main": "src/index.mjs",
     "type": "module",
     "dependencies": {
         "axios": "^0.27.2",
