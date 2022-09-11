@@ -1,9 +1,8 @@
 {
     "name": "thiago-oliveira",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Metedo post e get para consultas de apis",
-    "main": "src/index.mjs",
-    "type": "module",
+    "main": "src/index.js",
     "dependencies": {
         "axios": "^0.27.2",
         "rxjs": "^7.5.6"
