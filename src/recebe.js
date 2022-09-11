@@ -1,7 +1,7 @@
 import * as axios from "axios";
 import { Observable } from "rxjs";
 
-export class Buscar {
+export default class Buscar {
   constructor(url) {
     this.url = url;
   }

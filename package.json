@@ -2,7 +2,7 @@
     "name": "thiago-oliveira",
     "version": "1.0.0",
     "description": "Metedo post e get para consultas de apis",
-    "main": "src/recebe.mjs",
+    "main": "src/recebe.ts",
     "type": "module",
     "dependencies": {
         "axios": "^0.27.2",
