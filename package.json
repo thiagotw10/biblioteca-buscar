@@ -1,6 +1,6 @@
 {
     "name": "thiago-oliveira",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Metedo post e get para consultas de apis",
     "main": "src/index.mjs",
     "type": "module",
